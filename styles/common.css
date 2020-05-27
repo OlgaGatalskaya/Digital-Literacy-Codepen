@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background-color: #424949 ;
+    
+    box-shadow: inset -200px -200px 300px -12px rgba(0,0,0,0.75);
+}
+
+li {
+    list-style: none;
+}
